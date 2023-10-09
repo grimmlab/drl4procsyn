@@ -1,0 +1,10 @@
+pandas
+numpy
+ray==2.4.0
+scipy
+setproctitle
+tqdm
+matplotlib
+einops
+psutil
+openpyxl

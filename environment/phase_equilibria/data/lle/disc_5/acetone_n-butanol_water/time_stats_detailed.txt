@@ -1,0 +1,3 @@
+time d_g_mix: 0.1471853256225586
+time conv hull: 0.0
+time comparisons: 0.18495678901672363
