@@ -2,7 +2,7 @@
 
 ![image](readme_image.jpg)
 
-Official PyTorch implementation of the Gumbel AlphaZero-based algorithm for flowsheet synthesis in the paper "[Deep reinforcement learning uncovers processes for separating azeotropic mixtures without prior knowledge](https://arxiv.org)". An agent plays a singleplayer game where it sequentially constructs flowsheets and gets some net present value as episodic reward.
+Official PyTorch implementation of the Gumbel AlphaZero-based algorithm for flowsheet synthesis in the paper "[Deep reinforcement learning uncovers processes for separating azeotropic mixtures without prior knowledge](https://arxiv.org/abs/2310.06415)". An agent plays a singleplayer game where it sequentially constructs flowsheets and gets some net present value as episodic reward.
 
 **NOTE: As we are in an AlphaZero-setting, the terms _episode_ and _game_ are used interchangeably in the code.**
 
