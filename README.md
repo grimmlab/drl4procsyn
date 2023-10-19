@@ -35,3 +35,16 @@ Thanks to the following repositories:
   - Gumbel MCTS implementation.
 - [cem](https://github.com/grimmlab/cem)
   - Convex envelope method for liquid multi-phase equilibria
+
+## Paper
+
+For more details, please see our preprint "[Deep reinforcement learning uncovers processes for separating azeotropic mixtures without prior knowledge](https://arxiv.org/abs/2310.06415)". If this code is useful for your work, please cite our paper:
+
+```
+@article{gottl2023deep,
+  title={Deep reinforcement learning uncovers processes for separating azeotropic mixtures without prior knowledge},
+  author={G{\"o}ttl, Quirin and Pirnay, Jonathan and Burger, Jakob and Grimm, Dominik G},
+  journal={arXiv preprint arXiv:2310.06415},
+  year={2023}
+}
+``` 
