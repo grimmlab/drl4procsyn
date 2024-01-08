@@ -23,6 +23,10 @@ subsequent attributes. See the comments for the individual attributes to adjust 
 
 2. Environment configuration including chemical systems considered, simulation settings, discretization etc., see config file and comments for individual settings in `./environment/env_config.py`. 
 
+## Requirements
+
+Built and tested with PyTorch 2. Required packages are specified in `requirements.txt`. An NVIDIA GPU is recommended for faster training. An example Dockerfile is given under `docker/Dockerfile`. 
+
 ## Acknowledgments
 
 Thanks to the following repositories:
